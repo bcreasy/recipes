@@ -3,7 +3,7 @@
 ## Ingredients
 
 - 1 cup [nutritional yeast](https://en.wikipedia.org/wiki/Nutritional_yeast) flakes
-- 1.5 cup unsweetened vanilla almond milk
+- 1.5 cup unsweetened almond milk
 - 1 Tbsp. [arrowroot starch](https://en.wikipedia.org/wiki/Arrowroot)
 - 2 Tbsp. [Earth Balance vegan butter](http://earthbalancenatural.com/product/vegan-buttery-sticks/)
 - 3 shakes of garlic powder
@@ -20,4 +20,4 @@
 2. Whisk in nutritional yeast flakes and mix until thoroughly combined.
 3. With heat on high and whisking consistently, add in arrowroot starch. Do not stop whisking until mixture is completely smooth or it will clump.
 4. Turn heat to low and mix in seasoning, tomatoes, and jalapeno
-5. Add top secret hot sauce
+5. Optional: Add top secret hot sauce
