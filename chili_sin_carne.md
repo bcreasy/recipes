@@ -2,15 +2,16 @@
 
 First introduced at Starmount Chili Cook-Off 2015.  Won third place prize, defeating animal-based chili!
 
-First attempt ever at both using a crock pot and making chili.  I just played it by ear and didn't measure anything.
+- 2015: 3rd place
+- 2016: 9th place
 
 ## Ingredients
 
-- Organic Tomato Sauce
-- [Textured Vegetable Protein](http://www.lightlife.com/Vegan-Food-Vegetarian-Diet/Smart-Grounds-Original.html)
-- [Italian Seitan](http://www.uptonsnaturals.com/products/)
+- 30 fl. oz Organic Tomato Sauce
+- 24 oz [Textured Vegetable Protein](http://lightlife.com/products/smart-ground-original)
+- 2-4 oz [Traditional Seitan](http://www.uptonsnaturals.com/products/)
 - Olive Oil
-- Vegetable broth
+- 32 fl. oz Vegetable broth
 - Chili Powder
 - Cayenne Powder
 - Garlic Powder
@@ -20,5 +21,9 @@ First attempt ever at both using a crock pot and making chili.  I just played it
 - Onion Flakes
 - Salt
 - Black Pepper
-- Jalapeno Peppers (floating)
-- Serrano Peppers (floating)
+- 2x Jalapeno Peppers (floating)
+- 2x Serrano Peppers (floating)
+
+Added for 2016 edition:
+
+- Mustard Seed Powder
